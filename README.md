@@ -1,4 +1,4 @@
-# 🎨 Color Picker R
+# 🟨 Color Picker R
 
 ### Pick colors from any webpage with ease. Simple, fast, and casual! 🚀
 
@@ -11,7 +11,6 @@ Color Picker R is a Chrome extension designed for designers, developers, and col
 *   **🔍 Precision Eyedropper**: Zoom in and pick the perfect color with our magnifier lens.
 *   **🎨 Color Extraction**: One click to extract the dominant color palette from any page using K-means clustering.
 *   **📋 Instant Copy**: Click any color to copy the HEX code straight to your clipboard.
-*   **🌙 Dark Mode**: A sleek, minimal UI that stays out of your way.
 
 ---
 
@@ -54,5 +53,5 @@ Color Picker R is a Chrome extension designed for designers, developers, and col
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Rauf Jatoi</p>
+  <a href="https://raufjatoi.vercel.app/">Abdul Rauf Jatoi</a>
 </div>
